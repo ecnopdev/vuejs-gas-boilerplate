@@ -1,4 +1,4 @@
-# VueJS, Vuetify and Google Apps Script Boilerplace
+# VueJS, Vuetify and Google Apps Script Boilerplate
 This is a boilerplate code for setting up a simple stand-alone site using VueJS runtime and Vuetify. 
 
 # Usage
